@@ -1,3 +1,4 @@
 Line 1: Initial note
 Line 3: Third note
 
+Line 3: Third note
